@@ -1,5 +1,5 @@
 *~
 *.o
 tmp*
-a.out
+a.out*
 9cc
